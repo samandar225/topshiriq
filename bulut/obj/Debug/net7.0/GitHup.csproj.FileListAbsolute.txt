@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\GitHup\obj\Debug\net7.0\GitHup.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GitHup\obj\Debug\net7.0\GitHup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\GitHup\obj\Debug\net7.0\GitHup.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\GitHup\obj\Debug\net7.0\GitHup.AssemblyInfo.cs
+C:\Users\user\Desktop\GitHup\obj\Debug\net7.0\GitHup.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\GitHup\bin\Debug\net7.0\GitHup.exe
+C:\Users\user\Desktop\GitHup\bin\Debug\net7.0\GitHup.deps.json
+C:\Users\user\Desktop\GitHup\bin\Debug\net7.0\GitHup.runtimeconfig.json
+C:\Users\user\Desktop\GitHup\bin\Debug\net7.0\GitHup.dll
+C:\Users\user\Desktop\GitHup\bin\Debug\net7.0\GitHup.pdb
+C:\Users\user\Desktop\GitHup\obj\Debug\net7.0\GitHup.dll
+C:\Users\user\Desktop\GitHup\obj\Debug\net7.0\refint\GitHup.dll
+C:\Users\user\Desktop\GitHup\obj\Debug\net7.0\GitHup.pdb
+C:\Users\user\Desktop\GitHup\obj\Debug\net7.0\GitHup.genruntimeconfig.cache
+C:\Users\user\Desktop\GitHup\obj\Debug\net7.0\ref\GitHup.dll
